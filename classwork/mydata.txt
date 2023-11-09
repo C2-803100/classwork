@@ -6,3 +6,5 @@ NAME of the favorite City :- pune
 most visited place :- sunbeam, shaniwarwada
 
 my friends A,B,C,D
+
+course name:- Ditiss
