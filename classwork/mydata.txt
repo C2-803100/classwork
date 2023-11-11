@@ -10,3 +10,5 @@ my friends A,B,C,D
 course name:- Ditiss
 
 coordinator name :- Vishal sir
+
+Institute name :- Sunbeam Pune.
